@@ -15,7 +15,7 @@ This is a simple Java spring boot application build during SDA hackathon. Projec
 #### Developers
 - 
 - 
-Sudos
+
 #### Team1-ElasticBeanstalk
 - 
 - 
